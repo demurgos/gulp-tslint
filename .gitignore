@@ -2,6 +2,8 @@
 /test/**/*.js
 *.map
 npm-debug.log
+package-lock.json
+yarn.lock
 
 # IDE
 .idea
